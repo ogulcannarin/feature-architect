@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Mac OS folder settings
+.DS_Store
+
+# Virtualenv
+*.sqlite3
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Data files (Opsiyonel olarak veri setlerini github'a atmak istemeyebilirsiniz, ancak bu projede eğitim dosyaları oldukları için yorum satırında bırakıyorum)
+# *.csv
+# *.gz
+# *.zip
